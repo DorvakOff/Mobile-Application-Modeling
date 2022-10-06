@@ -10,3 +10,21 @@
 - Vincent Guillou
 - Camille Durand
 - Julien Devienne-Ousmer
+
+## Description du projet :
+
+## Installation :
+
+``` shell
+git clone https://github.com/DorvakOff/Mobile-Application-Modeling
+git checkout develop
+npm install
+npm start
+```
+## Utilisation :
+
+## Documentation :
+
+## Licence :
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
