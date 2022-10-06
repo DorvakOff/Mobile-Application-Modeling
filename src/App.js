@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 import {
   BrowserRouter as Router,
-  Switch,
+  Routes,
   Route,
   Link
 } from "react-router-dom";
+import React from "react";
 
 
 export default function App() {
@@ -17,28 +17,22 @@ export default function App() {
               <li>
                 <Link to="/">Home</Link>
               </li>
-              <li>
-                <Link to="/about">About</Link>
-              </li>
-              <li>
-                <Link to="/users">Users</Link>
-              </li>
             </ul>
           </nav>
 
           {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
-          <Switch>
-            <Route path="/">
-              <Home/>
-            </Route>
-          </Switch>
+          <Routes>
+            <Route path="/" element={<Home/>} />
+          </Routes>
         </div>
       </Router>
   );
 }
 
-function Home() {
-  return <h2>Home</h2>;
+class Home extends React.Component {
+  render() {
+    return <h1>Home</h1>
+  }
 }
 
