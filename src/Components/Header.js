@@ -9,14 +9,14 @@ export default function App() {
             {/* Header */}
             <Navbar bg="dark" variant="dark" expand="lg">
                 <Container>
-                    <Navbar.Brand href="#home">Team jaune</Navbar.Brand>
+                    <Navbar.Brand href="/">Team jaune</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto">
-                            <Nav.Link href="/a">a</Nav.Link>
-                            <Nav.Link href="/b">b</Nav.Link>
-                            <Nav.Link href="/c">c</Nav.Link>
-                            <Nav.Link href="/d">d</Nav.Link>
+                            <Nav.Link href="/Concepts">Concepts</Nav.Link>
+                            <Nav.Link href="/Outils">Outils</Nav.Link>
+                            <Nav.Link href="/Plateformes">Plateformes</Nav.Link>
+                            <Nav.Link href="/IOS-Android">IOS-Android</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
