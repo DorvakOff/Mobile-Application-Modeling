@@ -5,20 +5,21 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 import Home from "./Components/Home";
+import Page from "./Components/Page";
 
 export default function App() {
-  return (
-      <Router>
+    return (
+        <Router>
 
-        <Header/>
+            <Header/>
 
-        <Routes>
-          <Route path="/" element={<Home/>}/>
+            <Routes>
+                <Route path="/" element={<Home/>}/>
+                <Route path="/:page" element={<Page/>}/>
+            </Routes>
 
-        </Routes>
+            <Footer/>
 
-        <Footer/>
-
-      </Router>
-  )
+        </Router>
+    )
 }
