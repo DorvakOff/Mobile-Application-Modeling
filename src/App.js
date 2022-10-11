@@ -1,7 +1,9 @@
 import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
+import React from "react";
+import 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
-import React from "react";
 
 export default function App() {
   return (
