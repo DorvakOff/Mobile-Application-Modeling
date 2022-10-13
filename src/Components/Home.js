@@ -33,7 +33,8 @@ export default function App() {
                             </div>
                             <div className="mt-4">
                                 <a href="https://github.com/DorvakOff/Mobile-Application-Modeling" target="_blank"
-                                                               className="btn btn-primary">Contribuer</a>
+                                   rel="noreferrer"
+                                    className="btn btn-primary">Contribuer</a>
                             </div>
                         </div>
                     </div>
