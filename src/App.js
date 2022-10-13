@@ -17,7 +17,7 @@ export default function App() {
         if(path) {
             localStorage.removeItem('path');
         }
-    }, [])
+    }, [path])
 
     return (path ? <Navigate replace to={path} /> : <Router>
 
