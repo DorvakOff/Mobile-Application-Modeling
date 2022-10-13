@@ -35,10 +35,10 @@ jobs:
           npm run build --if-present
           npm run test --if-present
 
-      - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          path: build/
+          path: ./build
   deploy:
     environment:
       name: github-pages
