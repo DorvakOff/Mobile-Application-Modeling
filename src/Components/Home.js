@@ -19,6 +19,7 @@ export default function App() {
                                         <li>Matéo Papaix</li>
                                         <li>Fabien Bertato</li>
                                         <li>Titouan Foras</li>
+                                        <li>Anthony Delbouis</li>
                                     </ul>
                                 </div>
                                 <div className="col-3">
