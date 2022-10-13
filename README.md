@@ -10,6 +10,7 @@
 - Vincent Guillou
 - Camille Durand
 - Julien Devienne-Ousmer
+- Théo Villeneuve
 
 ## Description du projet :
 
