@@ -4,7 +4,7 @@ import ReactMarkdown from "react-markdown";
 export default function Page() {
 
     // Récupérer le nom de la page
-    const page = window.location.pathname.replace("/", "");
+    const page = window.location.pathname.replace("/Mobile-Application-Modeling/", "");
 
     // Récupérer le contenu de la page
     let file = null

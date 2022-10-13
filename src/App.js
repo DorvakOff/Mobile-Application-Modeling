@@ -9,18 +9,16 @@ import Page from "./Components/Page";
 import "./App.css";
 
 export default function App() {
-    return (
-        <Router>
+    return (<Router>
 
             <Header/>
 
             <Routes>
-                <Route path="/" element={<Home/>}/>
-                <Route path="/:page" element={<Page/>}/>
+                <Route path="Mobile-Application-Modeling/" element={<Home/>}/>
+                <Route path="Mobile-Application-Modeling/:page" element={<Page/>}/>
             </Routes>
 
             <Footer/>
 
-        </Router>
-    )
+        </Router>)
 }
