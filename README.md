@@ -11,6 +11,7 @@
 - Camille Durand
 - Julien Devienne-Ousmer
 - Théo Villeneuve
+- Anthony Delbouis
 
 ## Description du projet :
 
