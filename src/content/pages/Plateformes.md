@@ -11,7 +11,7 @@ Intellij IDEA est un IDE de JetBrains permettant de développer dans plusieurs l
 - Kotlin
 
 ### Licence
-Open source (sauf étudiant).
+Open source
 
 ### Aides au développement
 - Supporte l'auto complétion "inteligente" qui propose notamment de choisir quelle méthodes peut être intéressente dans un contexte précis
