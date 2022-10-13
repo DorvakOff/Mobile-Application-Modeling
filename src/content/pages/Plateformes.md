@@ -20,6 +20,7 @@ Eclipse Public License - v 2.0
 - auto complétion simple
 
 ## Intellij IDEA Community
+![logo_intellij](https://confluence.jetbrains.com/download/attachments/10818/IDEADEV?version=6&modificationDate=1449747979000&api=v2)
 ### Description
 Intellij IDEA est un IDE de JetBrains permettant de développer dans plusieurs langages et environements, dont Android.
 
