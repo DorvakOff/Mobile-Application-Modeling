@@ -6,6 +6,7 @@
 - Matéo Papaix
 - Fabien Bertato
 - FORAS Titouan
+- Anthony Delbouis
 - Noémie Rappeneau
 - Vincent Guillou
 - Camille Durand
