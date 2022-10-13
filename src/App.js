@@ -1,38 +1,26 @@
-import './App.css';
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Link
-} from "react-router-dom";
+import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 import React from "react";
-
+import 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from "./Components/Header";
+import Footer from "./Components/Footer";
+import Home from "./Components/Home";
+import Page from "./Components/Page";
+import "./App.css";
 
 export default function App() {
-  return (
-      <Router>
-        <div>
-          <nav>
-            <ul>
-              <li>
-                <Link to="/">Home</Link>
-              </li>
-            </ul>
-          </nav>
+    return (
+        <Router>
 
-          {/* A <Switch> looks through its children <Route>s and
-            renders the first one that matches the current URL. */}
-          <Routes>
-            <Route path="/" element={<Home/>} />
-          </Routes>
-        </div>
-      </Router>
-  );
+            <Header/>
+
+            <Routes>
+                <Route path="/" element={<Home/>}/>
+                <Route path="/:page" element={<Page/>}/>
+            </Routes>
+
+            <Footer/>
+
+        </Router>
+    )
 }
-
-class Home extends React.Component {
-  render() {
-    return <h1>Home</h1>
-  }
-}
-
