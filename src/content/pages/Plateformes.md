@@ -2,6 +2,9 @@
 ## Objectif
 Découvrir d'autres plateformes de dev Android autre que Android Studio
 
+## Historique
+Au début du développement android, bien avant Android Studio, il existait Eclipse avec le plugin ADT. Au fil des années google a développé android studio, basé sur l'IDE intellij, autrefois nommé JetBrains IDE.
+
 ## Eclipse
 ### Description
 Eclipse est un IDE de développement opensource. Eclipse permet de faire du développement android avec le plugin ADT.
