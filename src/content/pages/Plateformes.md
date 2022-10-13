@@ -2,6 +2,19 @@
 ## Objectif
 Découvrir d'autres plateformes de dev Android autre que Android Studio
 
+## Eclipse
+### Description
+Eclipse est un IDE de développement opensource. Eclipse permet de faire du développement android avec le plugin ADT.
+
+### Langages de développement android
+- Java
+- (probablement kotlin mais non natif)
+### Licence
+Eclipse Public License - v 2.0
+
+### Aides au développement
+- auto complétion simple
+
 ## Intellij IDEA Community
 ### Description
 Intellij IDEA est un IDE de JetBrains permettant de développer dans plusieurs langages et environements, dont Android.
