@@ -3,8 +3,8 @@ import React from "react";
 export default function App() {
     return (
         <>
-            <h1 className="text-center m-5">Mobile Modeling 2022</h1>
             <div className="container">
+                <h1 className="text-center m-5">Mobile Modeling 2022</h1>
                 <div className="row">
                     <div className="col-12 m-5">
                         <div className="card">
