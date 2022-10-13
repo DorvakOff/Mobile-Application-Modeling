@@ -1,5 +1,5 @@
-import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
-import React from "react";
+import {BrowserRouter as Router, Navigate, Route, Routes} from "react-router-dom";
+import React, {useEffect} from "react";
 import 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "./Components/Header";
@@ -9,7 +9,17 @@ import Page from "./Components/Page";
 import "./App.css";
 
 export default function App() {
-    return (<Router>
+
+    let path;
+
+    useEffect(() => {
+        path = localStorage.getItem('path');
+        if(path) {
+            localStorage.removeItem('path');
+        }
+    }, [])
+
+    return (path ? <Navigate replace to={path} /> : <Router>
 
             <Header/>
 
