@@ -19,3 +19,24 @@ Open source
 - Propose des simplification de code (supprimer le contenu d'une condition qui n'est jamais vraie)
 - Propose un émulateur android
 - intégre les outils de versionning comme GIT
+
+## Visual Studio
+### Logo
+https://logos-marques.com/wp-content/uploads/2021/03/Visual-Studio-Logo.png
+
+### Description
+- Logiciel de code créé par Microsoft permettant de programmer en +ieurs langages
+
+### Langage de développement android
+- Xamarin (C#)
+
+### Licences
+- Version __Communauté__: gratuite
+- Version __Professional__: payante mais pas obligatoire pour faire une application android
+- Version __Entreprise__: payante mais idem pas obligatoire
+
+### Aides au développement
+- indications lors d'erreurs
+- Supporte l'auto complétion "intelligente"
+- Propose un émulateur android
+- intégre les outils de versionning comme GIT
