@@ -6,7 +6,7 @@ export default function App() {
             <div className="container">
                 <h1 className="text-center m-5">Mobile Modeling 2022</h1>
                 <div className="row">
-                    <div className="col-12 m-5">
+                    <div className="col-12 p-5">
                         <div>
                             <h2>Bienvenue sur le site de Mobile Modeling 2022</h2>
                             <br/>

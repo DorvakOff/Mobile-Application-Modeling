@@ -36,7 +36,7 @@ export default function Page() {
     return (<>
         <div className="container">
             <div className="row">
-                <div className="col-12 m-5">
+                <div className="col-12 p-5">
                     <div className="card">
                         <div className="card-body">
                             {file === null && (<div className="container">
