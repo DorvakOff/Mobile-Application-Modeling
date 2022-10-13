@@ -22,7 +22,7 @@ Open source
 
 ## Visual Studio
 ### Logo
-https://logos-marques.com/wp-content/uploads/2021/03/Visual-Studio-Logo.png
+![logotoutbo](https://blog.jeremylandon.com/images/logo/visualstudio.png)
 
 ### Description
 - Logiciel de code créé par Microsoft permettant de programmer en +ieurs langages
