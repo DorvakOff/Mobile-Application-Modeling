@@ -9,7 +9,7 @@
 L'Unified Modeling Language (UML) est un langage de modélisation de développement dans le domaine du software engineering qui est destiné à fournir un moyen standard de visualiser la conception d'un système. 
 C’est une étape essentielle d’un projet informatique, il permet notamment de formaliser les besoins clients et de vulgariser les aspects liés à la conception (modélisation des processus) et à l’architecture.  
 			
-#### >    " Une image vaut mieux qu'un long discours "  
+>    " Une image vaut mieux qu'un long discours "  
 
 ## _Ce qu’il faut en retenir_
 
