@@ -21,9 +21,10 @@ Il existe différents types de diagrammes UML séparés en 2 vues différentes.
 Les diagrammes dits vues statique et les diagrammes dits dynamiques.
  
 Les diagrammes en vues statiques permettent de représenter la structure d’un modèle sans tenir compte des évolutions du modèle au cours du temps.
- 
-Les diagrammes statiques sont :  
-Diagramme de cas d’utilisation : Il s’agit d’un diagramme simpliste ayant pour but d’être compréhensible par les clients.  
+
+#### Les diagrammes statiques sont :  
+#### Diagramme de cas d’utilisation : 
+Il s’agit d’un diagramme simpliste ayant pour but d’être compréhensible par les clients.  
 Il va servir à représenter les différents acteurs ainsi que les actions qui leurs sont liées  
 ![diagramme uc](https://jmbruel.github.io/MobileModeling2016-1/img/concept/diagramme_uc.png)  
  
