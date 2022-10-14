@@ -6,10 +6,13 @@
 - Matéo Papaix
 - Fabien Bertato
 - FORAS Titouan
+- Anthony Delbouis
 - Noémie Rappeneau
 - Vincent Guillou
 - Camille Durand
 - Julien Devienne-Ousmer
+- Théo Villeneuve
+- Anthony Delbouis
 
 ## Description du projet :
 
