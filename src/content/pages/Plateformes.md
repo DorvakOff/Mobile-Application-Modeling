@@ -3,18 +3,18 @@
 Découvrir d'autres plateformes de dev Android autre que Android Studio
 
 ## Historique
-Au début du développement android, bien avant Android Studio, il existait Eclipse avec le plugin ADT. Au fil des années google a développé android studio, basé sur l'IDE intellij, autrefois nommé JetBrains IDE.
+Au début du développement android, bien avant Android Studio, il existait Eclipse avec le plugin ADT. Au fil des années google a développé android studio, basé sur l'IDE intellij, autrefois nommé JetBrains IDE et abandonné le support d'ADT (en juin 2015).
 
-## Eclipse
+## Eclipse avec ADT
 ![logo_eclipse](https://cdn.neow.in/news/images/uploaded/2016/04/eclipse-logo-new_story.jpg)
 ### Description
 Eclipse est un IDE de développement opensource. Eclipse permet de faire du développement android avec le plugin ADT.
 
 ### Langages de développement android
 - Java
-- (probablement kotlin mais non natif)
+- kotlin (mais non natif)
 ### Licence
-Eclipse Public License - v 2.0
+Open source : Eclipse Public License - v 2.0
 
 ### Aides au développement
 - auto complétion simple
@@ -29,7 +29,7 @@ Intellij IDEA est un IDE de JetBrains permettant de développer dans plusieurs l
 - Kotlin
 
 ### Licence
-Open source
+Open source : APACHE 2.0
 
 ### Aides au développement
 - Supporte l'auto complétion "inteligente" qui propose notamment de choisir quelle méthodes peut être intéressente dans un contexte précis
