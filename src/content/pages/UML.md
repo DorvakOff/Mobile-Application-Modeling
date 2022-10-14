@@ -28,7 +28,7 @@ Les diagrammes dits vues statique et les diagrammes dits dynamiques.
  
 Les diagrammes en vues statiques permettent de représenter la structure d’un modèle sans tenir compte des évolutions du modèle au cours du temps.
  
-Les diagrammes statiques sont :    
+Les diagrammes statiques sont :  
 Diagramme de cas d’utilisation : Il s’agit d’un diagramme simpliste ayant pour but d’être compréhensible par les clients.  
 Il va servir à représenter les différents acteurs ainsi que les actions qui leurs sont liées  
 <br>
@@ -42,38 +42,38 @@ Il va servir à représenter les différents acteurs ainsi que les actions qui l
  
 <br>
  
-<u>Diagramme d’objets :</u> Ce diagramme reprend le diagramme de classe de manière plus détaillé puisqu’il permet de représenter la structure d’un système à un instant spécifique
+#### Diagramme d’objets : Ce diagramme reprend le diagramme de classe de manière plus détaillé puisqu’il permet de représenter la structure d’un système à un instant spécifique
 <br>
 <img src="https://jmbruel.github.io/MobileModeling2016-1/img/concept/diagramme_objets.png" width="400"/>
  
 <br>
  
-<u>Diagramme de composants :</u> Ce diagramme permet de séparer un système en  différents composants afin de faire ressortir leurs relations ainsi que leurs ordres d’apparition.
+#### Diagramme de composants : Ce diagramme permet de séparer un système en  différents composants afin de faire ressortir leurs relations ainsi que leurs ordres d’apparition.
 <br>
 <img src="https://jmbruel.github.io/MobileModeling2016-1/img/concept/diagramme_composants.png" width="400"/>
  
 <br>
  
-<u>Diagramme de déploiements :</u> Il s’agit d’un diagramme permettant de représenter les différents modules d’un système ainsi que leurs connexions. Tels qu’un serveur web, un serveur d’application ainsi que le code qui leurs est lié.
+#### Diagramme de déploiements : Il s’agit d’un diagramme permettant de représenter les différents modules d’un système ainsi que leurs connexions. Tels qu’un serveur web, un serveur d’application ainsi que le code qui leurs est lié.
 <br>
 <img src="https://jmbruel.github.io/MobileModeling2016-1/img/concept/diagramme_deploiement.png" width="400"/>
  
 <br>
  
-Les diagrammes dynamiques sont:
-Diagrammes d’états : Il s’agit d’un diagramme représentant les différents états d’un système avec les conditions permettant ce changement d’état
+#### Les diagrammes dynamiques sont :
+#### Diagrammes d’états : Il s’agit d’un diagramme représentant les différents états d’un système avec les conditions permettant ce changement d’état
 <br>
 <img src="https://jmbruel.github.io/MobileModeling2016-1/img/concept/diagramme_etat.png" width="400"/>
  
 <br>
  
-<u>Diagramme d’activités :</u> Ce diagramme permet de séparer les différents acteurs d’un système et de modéliser leurs actions avec des symboles bien précis.
+#### Diagramme d’activités : Ce diagramme permet de séparer les différents acteurs d’un système et de modéliser leurs actions avec des symboles bien précis.
 <br>
 <img src="https://jmbruel.github.io/MobileModeling2016-1/img/concept/diagramme_activite.png" width="400"/>
  
 <br>
  
-<u>Diagramme de séquence :</u> Ce diagramme permet de décrire les intéractions entre les acteurs et les objets d’un système. Il propose une gestion de la temporalité de ces interactions de manière verticale.
+#### Diagramme de séquence : Ce diagramme permet de décrire les intéractions entre les acteurs et les objets d’un système. Il propose une gestion de la temporalité de ces interactions de manière verticale.
 <br>
 <img src="https://jmbruel.github.io/MobileModeling2016-1/img/concept/diagramme_sequence.png" width="400"/>
 
