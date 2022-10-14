@@ -13,20 +13,20 @@ Il est nécessaire de connaître le résultat final des fonctionnalités et du d
 
 ## Les modèles
 ### Le diagramme d’activité
-![Exemple de diagramme d'activité](https://cdn.discordapp.com/attachments/1027612751033536653/1030399238103908444/da_uml.png) <br/>
+![Exemple de diagramme d'activité](https://cdn.discordapp.com/attachments/1027612751033536653/1030399238103908444/da_uml.png)  
 Il fournit une représentation du comportement d’un système en décomposant, de façon fonctionnelle, les traitements et plus particulièrement, les cheminement de flots de contrôle et de flots de données. Ils sont particulièrement adaptés à la description des cas d'utilisation.
-<br/>
+ 
 
 ### Le diagramme d’état-transition
-![Exemple de diagramme d’état-transition](https://cdn.discordapp.com/attachments/1027612751033536653/1030399238447833088/de_uml.png) <br/>
+![Exemple de diagramme d’état-transition](https://cdn.discordapp.com/attachments/1027612751033536653/1030399238447833088/de_uml.png)  
 
 Il représente les états possibles des objets d’une classe donnée ainsi que les transitions entre ses états. Il est basé sur les concepts d’état (situation observée à un moment déterminé), transition (passage d’un état à l’autre), évènement (ensemble d’informations pouvant déclencher la transition) et d’activité (action ayant une durée dans le temps).
-<br/>
+ 
 
 ### Le diagramme d’interactions
-![Exemple de diagramme d’interactions](https://cdn.discordapp.com/attachments/1027612751033536653/1030399238846300180/di_uml.png) <br/>
+![Exemple de diagramme d’interactions](https://cdn.discordapp.com/attachments/1027612751033536653/1030399238846300180/di_uml.png)  
 Il offre une vue sur l’ensemble des flux de contrôle du système. Il est réalisé avec le même graphisme que le diagramme d’activité. Chaque élément du diagramme peut ensuite être détaillé à l’aide d’un diagramme de séquence ou d’un diagramme d’activité.
-<br/>
+ 
 
 ## Les logiciels 
 ### gliffy diagram
@@ -42,7 +42,7 @@ Un outil de création de diagrammes solide et polyvalent, dont la courbe d'appre
 Gliffy propose des formes et des modèles limités.
 #### Prix
 8$ user/mois
-<br/>
+ 
 
 ### Balsamiq Mockup
 #### Description
@@ -64,7 +64,7 @@ Logiciel peu professionnel
 Absences de fonctionnalités comme un moyen simple de créer des prototypes interactifs par clic
 #### Prix
 1 user / 89$
-<br/>
+ 
 
 ### AdobeXD
 #### Description
@@ -85,7 +85,7 @@ Ce logiciel ne prend pas en compte les autres plug-ins ; toutefois, nous pouvo
 Les fonctionnalités d’Adobe XD ne sont pas encore vraiment nombreuses par rapport aux autres logiciels du marché.
 #### Prix
 11.99$/mois
-<br/>
+ 
 
 ### Sketch
 #### Description
@@ -101,7 +101,7 @@ Si les plug-ins sont pratiques, ils nécessitent néanmoins d’être triés et 
 Il reste intuitif mais fonctionne avec peu de raccourcis claviers : l’usage de la souris est indispensable.
 #### Prix
 9$/mois
-<br/>
+ 
 
 # Bilan
 Les logiciels de maquettage peuvent en fait être plus ou moins riches sur le plan fonctionnel. Certains logiciels de maquettage permettent uniquement de réaliser des maquettes très simples, proches du dessin. D’autres proposent une palette de services beaucoup plus étendue, permettant de tout concevoir, de la maquette la plus dépouillée jusqu’à un véritable prototype de site permettant de naviguer d’une page à l’autre !
