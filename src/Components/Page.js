@@ -12,7 +12,7 @@ export default function Page() {
         try {
             setFile(require(`../content/pages/${page}.md`));
             console.log(file)
-            if(file) {
+            if (file) {
                 fetch(file)
                     .then(res => res.text())
                     .then(text => setContent(text));
@@ -34,9 +34,9 @@ export default function Page() {
     }, [loadPage]);
 
     return (<>
-        <div className="container">
+        <div className="container p-5">
             <div className="row">
-                <div className="col-12 m-5">
+                <div className="col-8">
                     <div className="card">
                         <div className="card-body">
                             {file === null && (<div className="container">
@@ -47,8 +47,26 @@ export default function Page() {
                         </div>
                     </div>
                 </div>
+                <div className="col-4">
+                    <div className="card">
+                        <div className="card-body">
+                            <h2>Table des matières</h2>
+                            <ul>
+                                {content && content.split("\n").map((line, index) => {
+                                    if (line.startsWith("#")) {
+                                        const title = line.replace(/#/g, "");
+                                        return (<li key={index}>
+                                            {title}
+                                        </li>)
+                                    } else {
+                                        return null;
+                                    }
+                                })}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </>)
-
 }
