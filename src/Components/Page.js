@@ -54,7 +54,7 @@ export default function Page() {
                             <ul>
                                 {content && content.split("\n").map((line, index) => {
                                     if (line.startsWith("#")) {
-                                        const title = line.substring(2)
+                                        const title = line.replace(/#/g, "");
                                         return (<li key={index}>
                                             {title}
                                         </li>)
