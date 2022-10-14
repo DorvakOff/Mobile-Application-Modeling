@@ -28,16 +28,15 @@ Les diagrammes dits vues statique et les diagrammes dits dynamiques.
  
 Les diagrammes en vues statiques permettent de représenter la structure d’un modèle sans tenir compte des évolutions du modèle au cours du temps.
  
-Les diagrammes statiques sont:
-Diagramme de cas d’utilisation : Il s’agit d’un diagramme simpliste ayant pour but d’être compréhensible par les clients.
+Les diagrammes statiques sont :    
+Diagramme de cas d’utilisation : Il s’agit d’un diagramme simpliste ayant pour but d’être compréhensible par les clients.  
 Il va servir à représenter les différents acteurs ainsi que les actions qui leurs sont liées  
-
 <br>
 <img src="https://jmbruel.github.io/MobileModeling2016-1/img/concept/diagramme_uc.png" width="400"/>
  
 <br>
  
-<u>Diagramme de classes :</u> Il s’agit d’un diagramme permettant de représenter différents objets ainsi que leurs attributs et relations.
+#### Diagramme de classes : Il s’agit d’un diagramme permettant de représenter différents objets ainsi que leurs attributs et relations.
 <br>
 <img src="https://jmbruel.github.io/MobileModeling2016-1/img/concept/diagramme_class.png" width="400"/>
  
