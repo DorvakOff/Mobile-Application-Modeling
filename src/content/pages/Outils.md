@@ -112,5 +112,3 @@ Des logiciels comme Sketch se rapprocheront plus des logiciels comme PhotoShop d
 
 
 
-
-
